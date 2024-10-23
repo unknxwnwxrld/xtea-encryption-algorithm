@@ -2,7 +2,7 @@
 Simple encryption program using XTEA cipher to encrypt and decrypt files. Written in C++
 
 
-#Usage
+# Usage
 **[XTEA.exe] [file] [-e/-d]**
 
 [XTEA.exe] is path to the XTEA File Encryptor executable
@@ -20,7 +20,7 @@ Simple encryption program using XTEA cipher to encrypt and decrypt files. Writte
 
 ***XTEA.exe document.txt -d*** will decrypt decument.txt
 
-#XTEA Algorithm
+# XTEA Algorithm
 You can get information and source code of the XTEA cipher on [Wikipedia] (https://en.wikipedia.org/wiki/XTEA)
 
 
